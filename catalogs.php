@@ -1,0 +1,71 @@
+<?
+
+		$catalog   = array();
+		$catalog[] = array ('116','Цветок',''); 
+		$catalog[] = array ('117','Роза',''); 
+		$catalog[] = array ('172','Кремовые розы','https://megaflowers.ru/filters/rozy/kremovye-rozy?filters%2Frozy%2Fkremovye-rozy=&bpp=Все'); 
+		$catalog[] = array ('173','Красные розы','https://megaflowers.ru/filters/rozy/krasnye-rozy?filters%2Frozy%2Fkrasnye-rozy=&bpp=Все'); 
+		$catalog[] = array ('174','Кустовые розы','https://megaflowers.ru/filters/rozy/kustovye-rozy?filters%2Frozy%2Fkustovye-rozy=&bpp=Все'); 
+		$catalog[] = array ('175','Розы Гран-При','https://megaflowers.ru/filters/rozy/rozy-gran-pri?filters%2Frozy%2Frozy-gran-pri=&bpp=Все'); 
+		$catalog[] = array ('176','Белые розы','https://megaflowers.ru/filters/rozy/belye-rozy?filters%2Frozy%2Fbelye-rozy=&bpp=Все'); 
+		$catalog[] = array ('177','Розовые розы','https://megaflowers.ru/filters/rozy/rozovye-rozy?filters%2Frozy%2Frozovye-rozy=&bpp=Все'); 
+		$catalog[] = array ('178','Сердца из роз','https://megaflowers.ru/filters/rozy/serdca-iz-roz?filters%2Frozy%2Fserdca-iz-roz=&bpp=Все'); 
+		$catalog[] = array ('118','Экзотика',''); 
+		$catalog[] = array ('119','Альстромерия',''); 
+		$catalog[] = array ('120','Ирис',''); 
+		$catalog[] = array ('121','Лилия',''); 
+		$catalog[] = array ('122','Хризантема',''); 
+		$catalog[] = array ('123','Гербера',''); 
+		$catalog[] = array ('124','Тюльпан',''); 
+		$catalog[] = array ('125','Подсолнух',''); 
+		$catalog[] = array ('126','Орхидея',''); 
+		$catalog[] = array ('127','Гвоздики',''); 
+		$catalog[] = array ('128','Каллы',''); 
+		$catalog[] = array ('129','Фрезии',''); 
+		$catalog[] = array ('130','Событие',''); 
+		$catalog[] = array ('131','Свадьба','https://megaflowers.ru/filters/sobytie/svadba?filters%2Fsobytie%2Fsvadba=&bpp=Все'); 
+		$catalog[] = array ('132','Рождение ребенка','https://megaflowers.ru/filters/sobytie/rozhdenie-rebenka?filters%2Fsobytie%2Frozhdenie-rebenka=&bpp=Все'); 
+		$catalog[] = array ('133','23 февраля','https://megaflowers.ru/filters/sobytie/23-fevralja?filters%2Fsobytie%2F23-fevralja=&bpp=Все'); 
+		$catalog[] = array ('134','Просто так','https://megaflowers.ru/filters/sobytie/prosto-tak?filters%2Fsobytie%2Fprosto-tak=&bpp=Все'); 
+		$catalog[] = array ('135','День рождения','https://megaflowers.ru/filters/sobytie/den-rozhdenija?filters%2Fsobytie%2Fden-rozhdenija=&bpp=Все'); 
+		$catalog[] = array ('136','Профессиональный праздник','https://megaflowers.ru/filters/sobytie/professionalnyj-prazdnik?filters%2Fsobytie%2Fprofessionalnyj-prazdnik=&bpp=Все'); 
+		$catalog[] = array ('137','Люблю','https://megaflowers.ru/filters/sobytie/ljublju?filters%2Fsobytie%2Fljublju=&bpp=Все'); 
+		$catalog[] = array ('138','Скучаю','https://megaflowers.ru/filters/sobytie/skuchaju?filters%2Fsobytie%2Fskuchaju=&bpp=Все'); 
+		$catalog[] = array ('139','Прости','https://megaflowers.ru/filters/sobytie/prosti?filters%2Fsobytie%2Fprosti=&bpp=Все'); 
+		$catalog[] = array ('140','Юбилей','https://megaflowers.ru/filters/sobytie/jubilej?filters%2Fsobytie%2Fjubilej=&bpp=Все'); 
+		$catalog[] = array ('141','Выздоравливай','https://megaflowers.ru/filters/sobytie/vyzdoravlivaj?filters%2Fsobytie%2Fvyzdoravlivaj=&bpp=Все'); 
+		$catalog[] = array ('142','Особенный случай','https://megaflowers.ru/filters/sobytie/osobennyj-sluchaj?filters%2Fsobytie%2Fosobennyj-sluchaj=&bpp=Все'); 
+		$catalog[] = array ('143','Траурные букеты','https://megaflowers.ru/filters/sobytie/traurnye-bukety?filters%2Fsobytie%2Ftraurnye-bukety=&bpp=Все'); 
+		$catalog[] = array ('144','Композиции',''); 
+		$catalog[] = array ('145','Популярные','https://megaflowers.ru/filters/kompozicii/populjarnye?filters%2Fkompozicii%2Fpopuljarnye=&bpp=Все'); 
+		$catalog[] = array ('146','Настольные','https://megaflowers.ru/filters/kompozicii/nastolnye?filters%2Fkompozicii%2Fnastolnye=&bpp=Все'); 
+		$catalog[] = array ('147','В корзинах','https://megaflowers.ru/filters/kompozicii/v-korzinah'); 
+		$catalog[] = array ('148','Игрушки с цветами','https://megaflowers.ru/filters/kompozicii/igrushki-s-cvetami'); 
+		$catalog[] = array ('149','Горшечные растения','https://megaflowers.ru/filters/kompozicii/gorshechnye-rastenija'); 
+		$catalog[] = array ('150','Оформление интерьера','https://megaflowers.ru/filters/kompozicii/oformlenie-interera'); 
+		$catalog[] = array ('151','Фигурки из цветов','https://megaflowers.ru/filters/kompozicii/figurki-iz-cvetov'); 
+		$catalog[] = array ('152','Авторские работы','https://megaflowers.ru/filters/kompozicii/avtorskie-raboty'); 
+		$catalog[] = array ('153','Бизнес-букеты','https://megaflowers.ru/filters/kompozicii/biznes-bukety'); 
+		$catalog[] = array ('154','Экзотическая композиция','https://megaflowers.ru/filters/kompozicii/jekzoticheskie-kompozicii'); 
+		$catalog[] = array ('155','Композиции из Тюльпанов','https://megaflowers.ru/filters/kompozicii/kompozicii-iz-tjulpanov'); 
+		$catalog[] = array ('156','Свадебные композиции','https://megaflowers.ru/filters/kompozicii/svadebnye-kompozicii'); 
+		$catalog[] = array ('157','Весенние букеты','https://megaflowers.ru/filters/kompozicii/vesennie-bukety?filters%2Fkompozicii%2Fvesennie-bukety=&bpp=Все'); 
+		$catalog[] = array ('158','Осенние букеты','https://megaflowers.ru/filters/kompozicii/osennie-bukety'); 
+		$catalog[] = array ('159','Букеты невесты','https://megaflowers.ru/filters/kompozicii/bukety-nevesty?filters%2Fkompozicii%2Fbukety-nevesty=&bpp=Все'); 
+		$catalog[] = array ('160','Кому',''); 
+		$catalog[] = array ('161','Семье','https://megaflowers.ru/filters/komu/seme?filters%2Fkomu%2Fseme=&bpp=Все'); 
+		$catalog[] = array ('162','Маме','https://megaflowers.ru/filters/komu/mame?filters%2Fkomu%2Fmame=&bpp=Все'); 
+		$catalog[] = array ('163','Детям','https://megaflowers.ru/filters/komu/detjam?filters%2Fkomu%2Fdetjam=&bpp=Все'); 
+		$catalog[] = array ('164','Сестре','https://megaflowers.ru/filters/komu/sestre?filters%2Fkomu%2Fsestre=&bpp=Все'); 
+		$catalog[] = array ('165','Начальнику','https://megaflowers.ru/filters/komu/nachalniku?filters%2Fkomu%2Fnachalniku=&bpp=Все'); 
+		$catalog[] = array ('166','Коллеге','https://megaflowers.ru/filters/komu/kollege?filters%2Fkomu%2Fkollege=&bpp=Все'); 
+		$catalog[] = array ('167','Мужчине','https://megaflowers.ru/filters/komu/muzhchine?filters%2Fkomu%2Fmuzhchine=&bpp=Все'); 
+		$catalog[] = array ('168','Преподавателю','https://megaflowers.ru/filters/komu/prepodavatelju?filters%2Fkomu%2Fprepodavatelju=&bpp=Все'); 
+		$catalog[] = array ('169','Учителю','https://megaflowers.ru/filters/komu/uchitelju?filters%2Fkomu%2Fuchitelju=&bpp=Все'); 
+		$catalog[] = array ('170','Любимой','https://megaflowers.ru/filters/komu/ljubimoj?filters%2Fkomu%2Fljubimoj=&bpp=Все'); 
+		$catalog[] = array ('171','Подруге','https://megaflowers.ru/filters/komu/podruge?filters%2Fkomu%2Fpodruge=&bpp=Все'); 
+		$catalog[] = array ('192','Пасха','https://megaflowers.ru/filters/sobytie/pasha'); 
+
+
+
+?>
